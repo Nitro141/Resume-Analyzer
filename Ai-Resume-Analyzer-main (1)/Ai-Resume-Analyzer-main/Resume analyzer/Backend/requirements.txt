@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+pdfplumber
+groq
+python-multipart
+requests
+httpx
+scikit-learn

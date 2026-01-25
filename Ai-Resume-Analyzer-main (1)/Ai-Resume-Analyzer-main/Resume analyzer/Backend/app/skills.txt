@@ -1,0 +1,27 @@
+Python
+JavaScript
+React
+Node.js
+Django
+Flask
+FastAPI
+spaCy
+NLTK
+pandas
+numpy
+scikit-learn
+TensorFlow
+PyTorch
+SQL
+NoSQL
+Docker
+Kubernetes
+HTML
+CSS
+AWS
+GCP
+Azure
+git
+REST
+GraphQL
+Machine Learning

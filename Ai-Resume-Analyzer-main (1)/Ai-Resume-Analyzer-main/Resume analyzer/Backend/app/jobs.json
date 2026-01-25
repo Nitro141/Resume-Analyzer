@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Junior NLP Engineer",
+    "company": "AI Labs",
+    "location": "Remote",
+    "description": "Work on natural language processing pipelines, entity recognition, and classification tasks. Implement models and help deploy them.",
+    "requirements": ["python", "nlp", "spacy", "pytorch", "statistics, machine learning, transformers"]
+  },
+  {
+    "title": "Frontend Engineer (React)",
+    "company": "WebFlow Inc",
+    "location": "Bangalore, India",
+    "description": "Develop SPAs using React, build reusable components, work with REST APIs and improve UX.",
+    "requirements": ["react", "javascript", "html", "css"]
+  },
+  {
+    "title": "Data Scientist",
+    "company": "DataSense",
+    "location": "Hyderabad, India",
+    "description": "Design predictive models, perform feature engineering and data pipelines, communicate results to stakeholders.",
+    "requirements": ["python", "pandas", "scikit-learn", "statistics, machine learning" ]
+  },
+  {
+    "title": "Backend Engineer (Python)",
+    "company": "ScaleApps",
+    "location": "Remote",
+    "description": "Build and maintain backend services, REST APIs, and databases. Optimize performance and ensure reliability.",
+    "requirements": ["python", "fastapi", "sql", "docker"]
+  }
+]
